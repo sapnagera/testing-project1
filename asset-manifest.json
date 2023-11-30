@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sapnagera/testing-project1/static/css/main.1b37fbf0.css",
+    "main.js": "/sapnagera/testing-project1/static/js/main.ba0e90c1.js",
+    "static/media/siri.png": "/sapnagera/testing-project1/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/sapnagera/testing-project1/index.html",
+    "main.1b37fbf0.css.map": "/sapnagera/testing-project1/static/css/main.1b37fbf0.css.map",
+    "main.ba0e90c1.js.map": "/sapnagera/testing-project1/static/js/main.ba0e90c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b37fbf0.css",
+    "static/js/main.ba0e90c1.js"
+  ]
+}
